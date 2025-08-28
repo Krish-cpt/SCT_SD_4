@@ -23,5 +23,6 @@ This project demonstrates **web scraping using Python** to extract product detai
 ## ▶️ How to Run the Project  
 1. Clone the repository  
    ```bash
-   git clone https://github.com/krish-cpt/web-scraping-project.git
+   git clone https://github.com/Krish-cpt/web-scraping-project.git
    cd web-scraping-project
+
